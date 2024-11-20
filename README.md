@@ -21,7 +21,7 @@ The film industry relies on understanding the factors that influence movie succe
 * Identify influential factors: Analyze the dataset to determine which factors (e.g., genre, director, actors) have the most significant impact on movie ratings.
 * Provide actionable insights: Offer insights to the film industry stakeholders to make informed decisions about movie production, casting, and marketing.
 ## Data Understanding
-The dataset is obtained from Kaggle: [Movie dataset](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)     
+The dataset is obtained from Company: [Movie dataset](https://drive.google.com/file/d/18E9e-w9GgJtWi0O0CgoWlzg4Xu5duUhq/view?usp=drive_link)     
 
 The dataset has the following columns:
 
