@@ -21,7 +21,7 @@ The film industry relies on understanding the factors that influence movie succe
 * Identify influential factors: Analyze the dataset to determine which factors (e.g., genre, director, actors) have the most significant impact on movie ratings.
 * Provide actionable insights: Offer insights to the film industry stakeholders to make informed decisions about movie production, casting, and marketing.
 ## Data Understanding
-The dataset is obtained from Kaggle: [IMDb India Movies](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)     
+The dataset is obtained from Kaggle: [Movie dataset](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)     
 
 The dataset has the following columns:
 
@@ -66,8 +66,8 @@ In conclusion, this project provides valuable insights and a predictive model fo
 - Real-time Data: Implement real-time data updates to keep the model current with the latest trends
 
 ## Author
-- Marwa Osman
-- marwaosman9975@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
-- [GitHub](https://github.com/marwa9975)
+- Geetika Khera
+- geetika.khera79@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/geetika-k-0562b41a3/)
+- [GitHub](https://github.com/geetikakhera21)
 
